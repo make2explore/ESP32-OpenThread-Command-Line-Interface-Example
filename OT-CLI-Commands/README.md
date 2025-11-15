@@ -165,13 +165,13 @@ Example:
 PNG:
 
 ```md
-![UDP Flow](docs/images/udp_flow.png)
+[UDP Flow](docs/images/udp_flow.png)
 ```
 
 SVG:
 
 ```md
-![UDP Flow SVG](docs/images/udp_flow.svg)
+[UDP Flow SVG](docs/images/udp_flow.svg)
 ```
 
 Mermaid:
