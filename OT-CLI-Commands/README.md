@@ -147,21 +147,8 @@ Example:
 ```
 
 ### 📊 UDP Flow Diagram
-
-PNG:
-
-```md
-[UDP Flow](docs/images/udp_flow.png)
-```
-
-SVG:
-
-```md
-[UDP Flow SVG](docs/images/udp_flow.svg)
-```
-
-Mermaid:
-
+  
+  
 ```mermaid
 sequenceDiagram
     participant Sender as ESP32 UDP Sender
