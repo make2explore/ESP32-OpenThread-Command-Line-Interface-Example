@@ -233,5 +233,3 @@ This project is released under the **MIT License**.
 Feel free to use it as a starting point for your own Thread + ESP32 demos, talks, and YouTube videos.
 
 ---
-
-> 🔔 If you use this in a video or project, consider linking back to your GitHub repo and ESP-IDF OpenThread example docs.
