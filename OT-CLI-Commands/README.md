@@ -111,21 +111,7 @@ Server:
 ```
 
 ### 📊 TCP Flow Diagram
-
-PNG:
-
-```md
-![TCP Flow](docs/images/tcp_flow.png)
-```
-
-SVG:
-
-```md
-![TCP Flow SVG](docs/images/tcp_flow.svg)
-```
-
-Or use Mermaid in GitHub:
-
+  
 ```mermaid
 sequenceDiagram
     participant Client as ESP32 TCP Client
