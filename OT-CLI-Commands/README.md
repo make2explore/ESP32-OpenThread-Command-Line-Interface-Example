@@ -56,13 +56,7 @@ A simple two-node setup:
         +-------------------+
 ```
 
-You can also include a topology image:
-
-```md
-![Topology](docs/images/topology.png)
-```
-
----
+  
 
 ## 🔁 TCP Messaging Demo
 
