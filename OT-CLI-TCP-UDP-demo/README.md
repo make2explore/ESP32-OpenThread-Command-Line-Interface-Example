@@ -59,7 +59,8 @@ A simple two-node setup:
 ---
 ## Setup the Thread network    
 Please first refer our [This Guide](https://github.com/make2explore/ESP32-OpenThread-Command-Line-Example/tree/main/OT-CLI-TCP-UDP-demo) to setup the ESP devices for Thread Network TCP/UDP communication  
----  
+  
+---
   
 ## 🔁 TCP Messaging Demo
 
