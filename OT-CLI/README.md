@@ -11,7 +11,7 @@ This example demonstrates an [OpenThread CLI](https://github.com/openthread/open
 
 To run this example, a board with IEEE 802.15.4 module (for example ESP32-H2) is required.
 
-### Configure the project
+### ⚙️ Configure the project
 
 ```
 idf.py menuconfig
@@ -23,7 +23,7 @@ The example can run with the default configuration. OpenThread Command Line is e
 Component config → ESP System Settings → Channel for console output → USB Serial/JTAG Controller
 ```
 
-### Build, Flash, and Run
+### 🚀 Build, Flash, and Run
 
 Build the project and flash it to the board, then run monitor tool to view serial output:
 
@@ -33,7 +33,7 @@ idf.py -p PORT build flash monitor
 
 Now you'll get an OpenThread command line shell.
 
-### Example Output
+### 🖥️ Example Output
 
 The `help` command will print all of the supported commands.
 ```bash
@@ -65,7 +65,7 @@ factoryreset
 ...
 ```
 
-## Set Up Network
+## 📶 Set Up Network
 
 To run this example, at least two ESP32-H2 boards flashed with this ot_cli example are required.
 
