@@ -1,6 +1,6 @@
 ## OpenThread Command Line Example on ESP32  
   
-<img src="/Images/m2e-ot-cli.png" height="200"> 
+<img src="/Images/openthread-banner.png" height="200"> 
 
 This example demonstrates how to use [OpenThread](https://openthread.io/), an open-source implementation of the Thread networking protocol, on Espressif SoCs through ESP-IDF. Thread is a low-power, IPv6-based mesh networking protocol designed for connected devices in smart homes and IoT applications. It provides reliable communication, self-healing mesh capabilities, and secure commissioning, making it an important foundation for modern connected ecosystems, including Matter (formerly CHIP).  
 
