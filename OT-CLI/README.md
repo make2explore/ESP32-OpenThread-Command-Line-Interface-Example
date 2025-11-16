@@ -134,7 +134,7 @@ The following examples are supported by `ot_cli`:
 
 # Demo of sending messages between devices using TCP
   
-You can also refer our [Detailed Guide](https://github.com/make2explore/ESP32-OpenThread-Command-Line-Example/tree/main/OT-CLI-TCP-UDP-demo) of demo of sending messages between devices using TCP and UDP with flow diagrams and Topology.
+You can also refer our [**Detailed Guide**](https://github.com/make2explore/ESP32-OpenThread-Command-Line-Example/tree/main/OT-CLI-TCP-UDP-demo) of demo of sending messages between devices using TCP and UDP with **flow diagrams** and **Topology**.
 Please refer it for more details.
 
 ## Quick Guide
