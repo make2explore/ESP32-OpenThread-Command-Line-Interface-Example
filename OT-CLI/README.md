@@ -133,7 +133,11 @@ The following examples are supported by `ot_cli`:
 ---
 
 # Demo of sending messages between devices using TCP
+  
+You can also refer our [Detailed Guide] of demo of sending messages between devices using TCP and UDP with flow diagrams and Topology.
+Please refer it for mire detials
 
+## Quick Guide
 ## For the First ESP OT-CLI device (Leader), open a TCP socket server
 
 ```bash
