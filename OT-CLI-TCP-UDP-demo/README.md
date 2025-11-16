@@ -182,17 +182,6 @@ child table
 
 ---
 
-## 🧱 Building & Flashing (ESP-IDF)
-
-```bash
-idf.py set-target esp32c6
-idf.py build
-idf.py flash monitor
-```
-
-Make sure OpenThread is enabled and you are using an ESP32 variant with Thread (802.15.4) support.
-
----
 
 ## 💡 Future Ideas
 
