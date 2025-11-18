@@ -1,7 +1,7 @@
 # OpenThread CLI – TCP & UDP Messaging Demo (ESP32)
 
 <p align="center">
-  <img src="docs/images/openthread-banner.png" alt="OpenThread CLI Banner" width="720" />
+  <img src="docs/images/m2e-ot-cli.jpg" alt="OpenThread CLI Banner" width="720" />
 </p>
 
 <p align="center">
