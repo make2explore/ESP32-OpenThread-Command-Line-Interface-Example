@@ -153,7 +153,7 @@ Done
 ```
 
 ## On another ESP32 (Child), set up the TCP client  
-### open client socket  
+### open client TCP socket  
 
 ```bash
 > tcpsockclient open  
