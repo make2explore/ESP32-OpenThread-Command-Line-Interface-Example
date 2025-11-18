@@ -127,8 +127,6 @@ The second device has joined the Thread network as a child (or a router).
 This opens a TCP socket server on port **12345**.
 
 ### 2️⃣ Start TCP Client (Child Node)
-
-## On another ESP32 (Child), set up the TCP client  
 ### open client TCP socket  
 
 ```bash
