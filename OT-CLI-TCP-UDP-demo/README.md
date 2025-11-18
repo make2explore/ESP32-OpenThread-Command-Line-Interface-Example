@@ -108,7 +108,7 @@ Done
 # After some seconds
 
 > state
-router  # child is also a valid state
+child  # router is also a valid state
 Done
 ```
 The second device has joined the Thread network as a router (or a child).  
