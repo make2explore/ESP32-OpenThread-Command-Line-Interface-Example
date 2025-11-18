@@ -203,7 +203,7 @@ sequenceDiagram
 
 ```text
 > udp open
-> udp send <A_mesh_local_EID> 1234 hello
+> udp send <A_mesh_local_EID or IPv6> 1234 hello
 ```
 
 Example:
