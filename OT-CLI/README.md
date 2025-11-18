@@ -119,7 +119,7 @@ Done
 child  # router is also a valid state
 Done
 ```
-The second device has joined the Thread network as a router (or a child).
+The second device has joined the Thread network as a child (or a router).
 
 ## Extension commands
 
