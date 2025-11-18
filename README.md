@@ -1,4 +1,4 @@
-## OpenThread Command Line Example on ESP32  
+## OpenThread Command Line Interface Example on ESP32  
   
 <img src="/Images/m2e-ot-cli.jpg" height="200"> 
 
