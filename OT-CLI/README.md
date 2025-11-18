@@ -152,8 +152,15 @@ Done
 Done
 ```
 
-## On another ESP32 (Child), set up the TCP client
+## On another ESP32 (Child), set up the TCP client  
+### Create a new port with any 5 digits and bind it
 
+```bash
+> tcpsockclient open  
+Done
+```
+  
+### connect to server with a new port
 Use IP which we copied in the last steps:
 
 ```bash
