@@ -128,14 +128,26 @@ This opens a TCP socket server on port **12345**.
 
 ### 2️⃣ Start TCP Client (Child Node)
 
-```text
+## On another ESP32 (Child), set up the TCP client  
+### open client TCP socket  
+
+```bash
+> tcpsockclient open  
+Done
+```
+  
+### connect to server on same port
+Use IP which we copied in the last steps:
+
+```bash
 > tcpsockclient connect <IP> <Port>
 ```
 
 Example:
 
-```text
-> tcpsockclient connect fd11:22::abcd 12345
+```bash
+> tcpsockclient connect fdde:ad00:beef:0:0:ff:fe00:fc00 12345
+Done
 ```
 
 ### 3️⃣ Exchange Messages

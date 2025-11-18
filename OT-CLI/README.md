@@ -160,7 +160,7 @@ Done
 Done
 ```
   
-### connect to server with on same port
+### connect to server on same port
 Use IP which we copied in the last steps:
 
 ```bash
