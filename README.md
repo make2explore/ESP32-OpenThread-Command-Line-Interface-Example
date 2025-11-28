@@ -30,7 +30,7 @@ To run this OT-CLI example on ESP32 boards, there are following Hardware-softwar
 
 - In this tutorial we will see How to run ot-cli example on ESP32 boards  
 
-▶️ OpenThread Command Line Interface on ESP32  - 🔗  https://youtu.be/   
+▶️ OpenThread Command Line Interface on ESP32  - 🔗  https://youtu.be/UV3VjUFOPW4     
   
 
 -------------------------------------------------------------------------------------------------------
