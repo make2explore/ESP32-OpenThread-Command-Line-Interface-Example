@@ -15,7 +15,7 @@ To run this OT-CLI example on ESP32 boards, there are following Hardware-softwar
   
 ### Hardware
 - To run this example, a board with IEEE 802.15.4 module (for example ESP32-H2)/ESP32-C6 is required.
-- We used ESP32-H2-DevKitM-1
+- ESP32-H2-DevKitM-1
 - ESP32-C6-DevKitC-1    
 - PC with Windows/Linux/MacOS
   
